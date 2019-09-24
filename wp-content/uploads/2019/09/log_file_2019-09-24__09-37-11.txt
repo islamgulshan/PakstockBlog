@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Magazine were successfully downloaded!
+Initial max execution time = 30000
+Files info:
+Site URL = http://localhost/pakstock_live
+Data file = F:\xampp\htdocs\pakstock_live/wp-content/uploads/2019/09/demo-content-import-file_2019-09-24__09-37-11.xml
+Widget file = F:\xampp\htdocs\pakstock_live/wp-content/uploads/2019/09/demo-widgets-import-file_2019-09-24__09-37-11.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Shufflehound Subscribe - Subscribe - Imported
+Shufflehound Recent Posts - Quick Cook! - Imported
+null-instagram-feed - Instagram - Site does not support widget
+
+WPbakery Page Builder Widgets : 
+
+Shufflehound Social Counter 2.0 - Stay connected - Imported
+Shufflehound Image - No Title - Imported
+Shufflehound Recent Posts - Reviews - Imported
+Shufflehound Post Categories - Life Hacks - Imported
+
+404 Widgets : 
+
+Shufflehound Recent Posts - Post Slider - Imported
+
+Header Side Menu Widgets : 
+
+Shufflehound Subscribe - Subscribe Now - Imported
+Shufflehound Recent Posts - Trending News - Imported
+
+Footer 1 Widgets : 
+
+Shufflehound Subscribe - Subscribe Now - Imported
+
+Footer 2 Widgets : 
+
+Shufflehound Recent Posts - Reviews - Imported
+
+Footer 3 Widgets : 
+
+Categories - No Title - Imported
+
+Footer Instagram Widgets (Only) : 
+
+null-instagram-feed - Instagram - Site does not support widget
+
+
+
+---pt-ocdi/after_import---
+
